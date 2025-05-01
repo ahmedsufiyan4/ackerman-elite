@@ -31,7 +31,7 @@ except LookupError:
 
 import google.generativeai as genai
 
-genai.configure(api_key="AIzaSyCoWXYSVyP27gh26uoWMSd3zh6aiC19G1s")
+genai.configure(api_key="yourapi")
 
 user_id = None
 
